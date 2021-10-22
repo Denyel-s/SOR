@@ -1,0 +1,2 @@
+# Atividade 1 - Echo Server
+Adaptar o código fonte do Echo Server Clássico () apresentado na aula de 24/10 para implementar um conversor de velocidades. O conversor deverá converter velocidades entre diferentes unidades de medidas. Por exemplo, de m/s para Km/h, de cm/s para m/s, mph para Km/h, etc. Devem ser apresentadas pelos menos cinco opções de unidades para o usuário através de um menu inicial apresentado no Cliente. O usuário também deve ter a opção de repetir a execução ou encerrar o programa após receber a resposta do servidor.
